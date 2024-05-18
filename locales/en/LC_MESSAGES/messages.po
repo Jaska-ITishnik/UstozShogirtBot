@@ -1,0 +1,435 @@
+# English translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-05-14 02:47+0500\n"
+"PO-Revision-Date: 2024-05-08 19:37+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: main.py:57
+msgid "Sherik kerak"
+msgstr "Partner need"
+
+#: main.py:58
+msgid "Ish joyi kerak"
+msgstr "Work place need"
+
+#: main.py:59
+msgid "Hodim kerak"
+msgstr "Employee need"
+
+#: main.py:60
+msgid "Ustoz kerak"
+msgstr "Teacher need"
+
+#: main.py:61
+msgid "Shogirt kerak"
+msgstr "Pupil need"
+
+#: main.py:72
+msgid "Tilni tanlang"
+msgstr "Choose the language"
+
+#: main.py:79
+msgid "O'zbek tili tanlandi"
+msgstr "Chosen uzbek language"
+
+#: main.py:82
+msgid "Ingiliz  tili tanlandi"
+msgstr "Chosen english language"
+
+#: main.py:84
+msgid ""
+"UstozShogird kanalining no rasmiy botiga xush kelibsiz /help yordam "
+"buyrugi orqali nimalarga qodir ekanligimni bilib oling!"
+msgstr ""
+"Welcome to UstozShogirt not offecial bot with command /help you can know "
+"aboun bot commands!"
+
+#: main.py:88
+msgid ""
+"\n"
+"UzGeeks faollari tomonidan tuzilgan Ustoz-Shogird kanali.\n"
+"\n"
+"Bu yerda Programmalash bo`yicha\n"
+"  #Ustoz,\n"
+"  #Shogird,\n"
+"  #oquvKursi,\n"
+"  #Sherik,\n"
+"  #Xodim va\n"
+"  #IshJoyi\n"
+" topishingiz mumkin.\n"
+"\n"
+"E'lon berish: @UstozShogirdBot\n"
+"\n"
+"Admin @UstozShogirdAdminBot\n"
+"    "
+msgstr ""
+"\n"
+"The Teacher-Pupil bot was created from actives of UZGeeks.\n"
+"\n"
+"There about programming\n"
+"  #Teacher,\n"
+"  #Pupil,\n"
+"  #learningCourse,\n"
+"  #Partner,\n"
+"  #Employee and\n"
+"  #WorkPlace\n"
+" you can find.\n"
+"\n"
+"Giving announce: @UstozShogirdBot\n"
+"\n"
+"Admin @UstozShogirdAdminBot\n"
+
+#: main.py:107
+#, fuzzy
+msgid " kerak"
+msgstr " need"
+
+#: main.py:111
+msgid ""
+"\n"
+"                {who_needs} topish uchun ariza berish\n"
+"\n"
+"Hozir sizga birnecha savollar beriladi.\n"
+"Har biriga javob bering.\n"
+"Oxirida agar hammasi to`g`ri bo`lsa, HA tugmasini bosing va arizangiz "
+"Adminga yuboriladi.\n"
+"                    "
+msgstr ""
+"\n"
+"                Giving form for finding {who_needs}\n"
+"\n"
+"Now will be given several questions.\n"
+"Answer for each of them.\n"
+"At the end click to button YES if all information is right then it will "
+"send to Admin.\n"
+
+#: main.py:118 main.py:128 main.py:174 main.py:190 main.py:219 main.py:243
+#, fuzzy
+msgid "Hodim"
+msgstr "Employee need"
+
+#: main.py:119
+msgid "🎓 Idora nomi?"
+msgstr "🎓 Office name?"
+
+#: main.py:121
+msgid "<b>Ism, familiyangizni kiriting?</b>"
+msgstr "<b>Enter your first and so name?</b>"
+
+#: main.py:129
+msgid "✍️Mas'ul ism sharifi?"
+msgstr "✍️Responsible name surname"
+
+#: main.py:131
+msgid ""
+"\n"
+"🕑 Yosh: \n"
+"                    \n"
+"Yoshingizni kiriting?\n"
+"Masalan, 19\n"
+msgstr ""
+"\n"
+"🕑 Age: \n"
+"\n"
+"Enter your age?\n"
+"For example, 19\n"
+
+#: main.py:141
+msgid ""
+"\n"
+"📚 Texnologiya:\n"
+"\n"
+"Talab qilinadigan texnologiyalarni kiriting?\n"
+"Texnologiya nomlarini vergul bilan ajrating. Masalan,\n"
+"Java, C++, C#\n"
+msgstr ""
+"\n"
+"📚 Technology:\n"
+"\n"
+"Enter required technologies?\n"
+"Separate technology names with commas. For example,\n"
+"Java, C++, C#\n"
+
+#: main.py:152
+msgid ""
+"\n"
+"📞 Aloqa:\n"
+"            \n"
+"Bog`lanish uchun raqamingizni kiriting?\n"
+"Masalan, +998 90 123 45 67\n"
+msgstr ""
+"\n"
+"📞 Contact:\n"
+"\n"
+"Enter your contact number?\n"
+"For example, +998 90 123 45 67\n"
+
+#: main.py:162
+msgid ""
+"\n"
+"🌐 Hudud:\n"
+"            \n"
+"Qaysi hududdansiz?\n"
+"Viloyat nomi, Toshkent shahar yoki Respublikani kiriting.\n"
+msgstr ""
+"\n"
+"🌐 Region:\n"
+"\n"
+"What area are you from?\n"
+"Enter the name of the province, Tashkent city or Republic.\n"
+
+#: main.py:175
+msgid ""
+"\n"
+"💰 Maoshni kiriting?\n"
+msgstr ""
+"\n"
+"💰 Enter salary?\n"
+
+#: main.py:179
+msgid ""
+"\n"
+"💰 Narxi:\n"
+"            \n"
+"Tolov qilasizmi yoki Tekinmi?\n"
+"Kerak bo`lsa, Summani kiriting?\n"
+msgstr ""
+"\n"
+"💰 Price:\n"
+"\n"
+"Paid or Free?\n"
+"If necessary, enter Amount?\n"
+
+#: main.py:191
+msgid ""
+"\n"
+"🕰 Ish vaqtini kiriting?\n"
+msgstr ""
+"\n"
+"🕰 Enter working hours?\n"
+
+#: main.py:195
+msgid ""
+"\n"
+"👨🏻‍💻 Kasbi: \n"
+"                    \n"
+"Ishlaysizmi yoki o`qiysizmi?\n"
+"Masalan, Talaba\n"
+msgstr ""
+"\n"
+"👨🏻‍💻 Occupation: \n"
+"\n"
+"Do you work or study?\n"
+"For example, Student\n"
+
+#: main.py:207
+msgid ""
+"\n"
+"🕰 Murojaat qilish vaqti: \n"
+"\n"
+"Qaysi vaqtda murojaat qilish mumkin?\n"
+"Masalan, 9:00 - 18:00\n"
+msgstr ""
+"\n"
+"🕰 Application time: \n"
+"\n"
+"When can I apply?\n"
+"For example, 9:00 - 18:00\n"
+
+#: main.py:220
+msgid ""
+"\n"
+"‼️ Qo`shimcha ma`lumotlar?\n"
+msgstr ""
+"\n"
+"‼️ More information?\n"
+
+#: main.py:224
+msgid ""
+"\n"
+"🔎 Maqsad: \n"
+"                        \n"
+"Maqsadingizni qisqacha yozib bering.                            \n"
+msgstr ""
+"\n"
+"🔎 Target: \n"
+"\n"
+"Briefly write your purpose. \n"
+
+#: main.py:234
+msgid "👨‍💼 Xodim"
+msgstr "👨‍💼 Employee"
+
+#: main.py:235
+msgid "🕑 Yosh"
+msgstr "🕑 Age"
+
+#: main.py:236
+msgid "📚 Texnologiya"
+msgstr "📚 Technology"
+
+#: main.py:237
+msgid "📞 Aloqa"
+msgstr "📞Communication"
+
+#: main.py:238
+msgid "🌐 Hudud"
+msgstr "🌐 Place"
+
+#: main.py:239
+msgid "💰 Narxi"
+msgstr "💰 Price"
+
+#: main.py:240
+msgid "👨🏻💻 Kasbi"
+msgstr "👨🏻💻 Occupation"
+
+#: main.py:241
+msgid "🕰 Murojaat"
+msgstr "🕰 Appeal"
+
+#: main.py:242
+msgid "🔎 Maqsad"
+msgstr "🔎 Goal"
+
+#: main.py:244
+#, fuzzy
+msgid "🏢 Idora"
+msgstr "🏢 Office?"
+
+#: main.py:245
+msgid "✍️Mas'ul"
+msgstr "✍️Responsible"
+
+#: main.py:246
+msgid "💰 Maosh"
+msgstr "💰 Salary"
+
+#: main.py:247
+msgid "🕰 Ish vaqti"
+msgstr "🕰 Work time"
+
+#: main.py:248
+msgid "‼️ Qo`shimcha ma`lumotlar"
+msgstr "‼️ Additional information"
+
+#: main.py:249
+#, fuzzy
+msgid "Ustoz"
+msgstr "Teacher"
+
+#: main.py:250
+#, fuzzy
+msgid "🎓 Shogirt"
+msgstr "🎓 Pupil"
+
+#: main.py:251
+#, fuzzy
+msgid "Sherik"
+msgstr "Partner"
+
+#: main.py:252
+#, fuzzy
+msgid "🏅 Sherik"
+msgstr "🏅 Partner"
+
+#: main.py:253
+#, fuzzy
+msgid "Shogirt"
+msgstr "Pupil"
+
+#: main.py:254
+msgid "🎓 Ustoz"
+msgstr "🎓 Teacher"
+
+#: main.py:270 main.py:286
+msgid "Ha"
+msgstr "Yes"
+
+#: main.py:271 main.py:287
+msgid "Yo'q"
+msgstr "No"
+
+#: main.py:273
+msgid "To'ldirilgan ma'lumotlar to'g'rimi?"
+msgstr "Is correct completed information"
+
+#: main.py:294
+msgid "Adminga yuborildi"
+msgstr "Sent to Admin"
+
+#: main.py:303
+msgid "{first_name} arizangiz kanalga yuborildi!😎"
+msgstr "{first_name} your statement has been sent to channel!😎"
+
+#: main.py:306
+msgid "{first_name} arizangiz inkor qilindi!🤕"
+msgstr "{first_name} your statement has been rejected!🤕"
+
+#: main.py:312
+msgid "Ma'lumotlar bekor qilindi!"
+msgstr "Data has been discarded"
+
+#~ msgid "Menyu tanlang"
+#~ msgstr "Choose the menu"
+
+#~ msgid "Ish joyini tanladingiz!"
+#~ msgstr "Work place chosen"
+
+#~ msgid ""
+#~ "\n"
+#~ "        Assalom alaykum\n"
+#~ "        UstozShogird kanalining no rasmiy botiga xush kelibsiz!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "UstozShogird kanalining no rasmiy botiga "
+#~ "xush kelibsiz! /help yordam buyrugi "
+#~ "orqali nimalarga qodir ekanligimni bilib "
+#~ "oling!"
+#~ msgstr ""
+#~ "Welcome to TeacherPupil not official bot"
+#~ " with command /help know about "
+#~ "commands!"
+
+#~ msgid "Xush kelibsiz!"
+#~ msgstr "Welcome!"
+
+#~ msgid "Employee need"
+#~ msgstr "Employee need"
+
+#~ msgid "Teacher"
+#~ msgstr "Teacher"
+
+#~ msgid "Partner"
+#~ msgstr "Partner"
+
+#~ msgid "Pupil"
+#~ msgstr ""
+
+#~ msgid "Botni boshlash uchun"
+#~ msgstr "For start bot"
+
+#~ msgid "Bot haqida"
+#~ msgstr "About bot"
+
+#~ msgid "Sizning arizangiz kanalga yuborildi hurmatliy fuqoro!😎"
+#~ msgstr ""
+
+#~ msgid "Kechirasiz sizning arizangiz inkor qilindi!🤕"
+#~ msgstr ""
+
